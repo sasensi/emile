@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2012.6 1133.9" enable-background="new 0 0 2012.6 1133.9" xml:space="preserve">
+<g id="leftTower">
+	<line id="a" fill="none" stroke="#1A171B" stroke-miterlimit="10" x1="985.9" y1="561.9" x2="985.9" y2="585.5"/>
+	<line id="b" fill="none" stroke="#1A171B" stroke-miterlimit="10" x1="995.1" y1="561.9" x2="995.1" y2="585.5"/>
+	<line id="d_1_" fill="none" stroke="#1A171B" stroke-miterlimit="10" x1="985.4" y1="561.9" x2="995.6" y2="561.9"/>
+	<g>
+		<line id="c" fill="none" stroke="#1A171B" stroke-miterlimit="10" x1="984.2" y1="560.7" x2="996.8" y2="560.7"/>
+		<line id="d" fill="none" stroke="#1A171B" stroke-miterlimit="10" x1="985.4" y1="560.7" x2="985.4" y2="561.9"/>
+		<line id="d_2_" fill="none" stroke="#1A171B" stroke-miterlimit="10" x1="995.6" y1="560.7" x2="995.6" y2="561.9"/>
+	</g>
+	<g>
+		<line id="f" fill="none" stroke="#1A171B" stroke-miterlimit="10" x1="985.9" y1="585.5" x2="984.9" y2="588.3"/>
+		<line id="g" fill="none" stroke="#1A171B" stroke-miterlimit="10" x1="995.1" y1="585.5" x2="996.1" y2="588.3"/>
+		<polyline id="i" fill="none" stroke="#1A171B" stroke-miterlimit="10" points="984.2,588.3 996.8,588.3 996.8,589.7 984.2,589.7 
+			984.2,588.3 		"/>
+	</g>
+	<polyline id="e" fill="none" stroke="#1A171B" stroke-miterlimit="10" points="984.2,560.7 984.2,558.2 985.6,558.2 985.6,559.5 
+		987,559.5 987,558.2 988.4,558.2 988.4,559.5 989.8,559.5 989.8,558.2 991.2,558.2 991.2,559.5 992.6,559.5 992.6,558.2 994,558.2 
+		994,559.5 995.4,559.5 995.4,558.2 996.8,558.2 996.8,560.7 	"/>
+	<polyline id="h" fill="none" stroke="#1A171B" stroke-miterlimit="10" points="985.6,559.5 990.5,548 995.4,559.5 	"/>
+	<polyline id="j" fill="none" stroke="#1A171B" stroke-miterlimit="10" points="990.5,548 990.5,542.5 994.3,542.5 994.3,545.3 
+		990.5,545.3 	"/>
+</g>
+<g id="rightTower">
+	<g>
+		<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="1019,561.9 1019,585.5 1018,588.3 		"/>
+		<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="1028.1,561.9 1028.1,585.5 1029.2,588.3 		"/>
+	</g>
+	<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="1017.2,588.3 1029.9,588.3 1029.9,589.7 1017.2,589.7 
+		1017.2,588.3 	"/>
+	<g>
+		<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="1017.2,560.7 1017.2,558.2 1018.6,558.2 1018.6,559.5 
+			1020,559.5 1020,558.2 1021.4,558.2 1021.4,559.5 1022.9,559.5 1022.9,558.2 1024.2,558.2 1024.2,559.5 1025.7,559.5 
+			1025.7,558.2 1027.1,558.2 1027.1,559.5 1028.5,559.5 1028.5,558.2 1029.9,558.2 1029.9,560.7 1017.2,560.7 		"/>
+		<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="1018.5,560.7 1018.5,561.9 1028.6,561.9 1028.6,560.7 		
+			"/>
+	</g>
+	<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="1018.6,559.5 1023.6,548 1028.5,559.5 	"/>
+</g>
+<g id="house">
+	<g>
+		<line fill="none" stroke="#1A171B" stroke-miterlimit="10" x1="996.8" y1="589" x2="1017.2" y2="589"/>
+		<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="1002,589 1002,582.5 1003.2,579.1 1007,577.4 
+			1010.8,579.1 1012.1,582.5 1012.1,589 		"/>
+	</g>
+	<g>
+		<line fill="none" stroke="#1A171B" stroke-miterlimit="10" x1="995.1" y1="569.9" x2="1019" y2="569.9"/>
+		<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="995.1,569.9 1001.1,563.4 1012.9,563.4 1019,569.9 		"/>
+	</g>
+	<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="989.6,564.3 991.4,564.3 991.4,567.4 989.6,567.4 
+		989.6,564.3 	"/>
+	<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="1022.7,564.3 1024.4,564.3 1024.4,567.4 1022.7,567.4 
+		1022.7,564.3 	"/>
+	<g>
+		<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="1003.4,572.7 1005.2,572.7 1005.2,575.8 1003.4,575.8 
+			1003.4,572.7 		"/>
+		<polyline fill="none" stroke="#1A171B" stroke-miterlimit="10" points="1008.9,572.7 1010.6,572.7 1010.6,575.8 1008.9,575.8 
+			1008.9,572.7 		"/>
+	</g>
+</g>
+</svg>
